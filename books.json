@@ -2,21 +2,39 @@
   {
     "title": "20th Century Costume Pattern Design",
     "url": "https://ufl.pb.unizin.org/20thcenturypatterndesign/",
-    "subject": "Fashion & textiles",
+    "subject": [
+      {
+        "Identifier": "001",
+        "Name": "Fashion & textiles"
+      }
+    ],
+    "language": "EN",
     "word_count": 1806,
     "is_original": true
   },
   {
     "title": "12 Key Ideas: An Introduction to Teaching Online",
     "url": "https://ecampusontario.pressbooks.pub/onlineteaching/",
-    "subject": "Education",
+    "subject": [
+      {
+        "Identifier": "002",
+        "Name": "Education"
+      }
+      ],
+    "Language": "EN",
     "word_count": 23332,
     "is_original": true
   },
   {
     "title": "2019-20 MMC Family Medicine Clerkship",
     "url": "https://tuftsmedicine.pressbooks.pub/fmclerkshipmmc/",
-    "subject": "Health",
+    "subject": [
+      {
+        "Identifier": "003",
+        "Name": "Health"
+      }
+    ],
+    "Language": "EN",
     "word_count": 322123,
     "is_original": false,
     "based_on": "https://tuftsmedicine.pressbooks.pub/familymedicineclerkship/"
@@ -24,14 +42,26 @@
   {
     "title": "2019-2020 Family Medicine Clerkship",
     "url": "https://tuftsmedicine.pressbooks.pub/familymedicineclerkship/",
-    "subject": "Health",
+    "subject": [
+      {
+        "Identifier": "003",
+        "Name": "Health"
+      }
+    ],
+    "Language": "EN",
     "word_count": 266565,
     "is_original": true
   },
   {
     "title": "1, 2, 3 Write!",
     "url": "https://mhcc.pressbooks.pub/monteverde/",
-    "subject": "Language learning: writing skills",
+    "subject": [
+      {
+        "Identifier": "004",
+        "Name": "Language learning"
+      }
+    ],
+    "Language": "EN",
     "word_count": 39949,
     "is_original": false,
     "based_on": "https://ecampusontario.pressbooks.pub/onlineteaching/"
@@ -39,39 +69,217 @@
   {
     "title": "A Guide to Making Open Textbooks with Students",
     "url": "https://csupueblo.pressbooks.pub/makingopentextbookswithstudents/",
-    "subject": "Publishing",
+    "subject": [
+      {
+        "Identifier": "005",
+        "Name": "Publishing & book trade"
+      }
+    ],
+    "Language": "EN",
     "word_count": 121515,
     "is_original": true
   },
   {
-    "title": "A Concise Introduction to Logic",
-    "url": "https://milnepublishing.geneseo.edu/concise-introduction-to-logic/",
-    "subject": "Mathematics",
-    "word_count": 515156,
+    "title": "A parar bien la oreja: cuaderno de comprensión auditiva",
+    "url": "https://ecampusontario.pressbooks.pub/slch/",
+    "subject": [
+      {
+        "Identifier": "004",
+        "Name": "Language learning"
+      }
+    ],
+    "Language": "ES",
+    "word_count": 12755,
     "is_original": true
   },
   {
-    "title": "A Different Road To College",
-    "url": "https://openoregon.pressbooks.pub/collegetransition/",
-    "subject": "Study & learning skills: general",
-    "word_count": 65656,
+    "title": "Antología abierta de literatura hispana",
+    "url": "https://press.rebus.community/aalh/",
+    "subject": [
+      {
+        "Identifier": "006",
+        "Name": "Comparative literature"
+      }
+    ],
+    "Language": "ES",
+    "word_count": 69619,
     "is_original": true
   },
   {
-    "title": "A Guide to Good Reasoning: Cultivating Intellectual Virtues",
-    "url": "https://open.lib.umn.edu/goodreasoning/",
-    "subject": "Philosophy: epistemology & theory of knowledge",
-    "word_count": 153698,
+    "title": "Antología abierta de literatura hispana",
+    "url": "https://ecampusontario.pressbooks.pub/aalh/",
+    "subject": [
+      {
+        "Identifier": "006",
+        "Name": "Comparative literature"
+      }
+    ],
+    "Language": "ES",
+    "word_count": 24236,
+    "is_original": false,
+    "based_on": "https://press.rebus.community/aalh/"
+  },
+  {
+    "title": "Español para hablantes nativos",
+    "url": "https://openoregon.pressbooks.pub/spanishbiliteracy/",
+    "subject": [
+      {
+        "Identifier": "004",
+        "Name": "Language learning"
+      }
+    ],
+    "Language": "ES",
+    "word_count": 24405,
     "is_original": true
   },
   {
-    "title": "Academic Library Instruction",
-    "url": "https://uw.pressbooks.pub/dfwfall2019/",
-    "subject": "Library & information services",
-    "word_count": 65660,
+    "title": "La Trousse d’outils d’accessibilité",
+    "url": "https://ecampusontario.pressbooks.pub/troussedoutildeaccessibilite/",
+    "subject": [
+        {
+          "Identifier": "005",
+          "Name": "Publishing & book trade"
+        }
+      ],
+    "Language": "FR",
+    "word_count": 7675,
+    "is_original": false,
+    "based_on": "https://opentextbc.ca/accessibilitytoolkit/"
+  },
+  {
+    "title": "Femmes savantes, femmes de science",
+    "url": "https://scienceetbiencommun.pressbooks.pub/femmessavantes/",
+    "subject": [
+      {
+        "Identifier": "007",
+        "Name": "Women in science"
+      }
+    ],
+    "Language": "FR",
+    "word_count": 33196,
     "is_original": true
   },
   {
+    "title": "Femmes savantes, femmes de science",
+    "url": "https://ecampusontario.pressbooks.pub/femmessavantes/",
+    "subject": [
+      {
+        "Identifier": "007",
+        "Name": "Women in science"
+      }
+    ],
+    "Language": "FR",
+    "word_count": 31046,
+    "is_original": false,
+    "based_on": "https://scienceetbiencommun.pressbooks.pub/femmessavantes/"
+  },
+  {
+    "title": "قصص من الليالي العربية",
+    "url": "https://pressbooks.uiowa.edu/makur3/",
+    "subject": [
+      {
+        "Identifier": "006",
+        "Name": "Comparative literature"
+      }
+    ],
+    "Language": "AR",
+    "word_count": 12791,
+    "is_original": true
+  },
+  {
+    "title": "A Beginner's Guide for Transitioning into Colloquial Arabic",
+    "url": "https://pdx.pressbooks.pub/frommsatoca/",
+    "subject": [
+      {
+        "Identifier": "004",
+        "Name": "Language learning"
+      }
+    ],
+    "Language": "AR",
+    "word_count": 10055,
+    "is_original": true
+  },
+  {
+    "title": "Tiny Tales from the Sufis",
+    "url": "https://sufis.pressbooks.com/",
+    "subject": [
+      {
+        "Identifier": "006",
+        "Name": "Comparative Literature"
+      }
+    ],
+    "Language": "AR",
+    "word_count": 25839,
+    "is_original": true
+  },
+  {
+    "title": "三國演義 (Romance of the Three Kingdoms)",
+    "url": "https://chinesenotes.com/sanguoyanyi.html",
+    "subject": [
+      {
+        "Identifier": "006",
+        "Name": "Comparative Literature"
+      }
+    ],
+    "Language": "ZH",
+    "word_count": 14715,
+    "is_original": false,
+    "based_on": "https://ctext.org/sanguozhi"
+  },
+  {
+    "title": "三國志 (Records of the Three Kingdoms)",
+    "url": "https://ctext.org/sanguozhi",
+    "subject": [
+      {
+        "Identifier": "008",
+        "Name": "History"
+      }
+    ],
+    "Language": "ZH",
+    "word_count": 84105,
+    "is_original": true
+  },
+  {
+    "title": "紅樓夢 (Dream of the Red Chamber)",
+    "url": "https://chinesenotes.com/hongloumeng.html",
+    "subject": [
+      {
+        "Identifier": "006",
+        "Name": "Comparative Literature"
+      }
+    ],
+    "Language": "ZH",
+    "word_count": 44932,
+    "is_original": true
+  },
+  {
+    "title": "The Dream of the Red Chamber: Book I",
+    "url": "https://librivox.org/the-dream-of-the-red-chamber-book-i-by-xueqin-cao/",
+    "subject": [
+      {
+        "Identifier": "006",
+        "Name": "Comparative Literature"
+      }
+    ],
+    "Language": "EN",
+    "word_count": 24015,
+    "is_original": false,
+    "based_on": "https://chinesenotes.com/hongloumeng.html"
+  },
+  {
+    "title": "An Open Approach to Scholarly Reading and Knowledge Management",
+    "url": "https://press.rebus.community/scholarlyreading/",
+    "subject": [
+      {
+        "Identifier": "005",
+        "Name": "Publishing & book trade"
+      }
+    ],
+    "Language": "EN",
+    "word_count": 2324335,
+    "is_original": true
+  },
+    {
     "title": "Academic Quality: CDS Crib Notes",
     "url": "https://ecampusontario.pressbooks.pub/aqpr/",
     "subject": "Education",
@@ -100,6 +308,7 @@
     "subject": "Language learning: writing skills",
     "word_count": 33444,
     "is_original": true
+  },
   {
     "title": "Accessibility Toolkit",
     "url": "https://mhcc.pressbooks.pub/monteverde/",
@@ -108,21 +317,7 @@
     "is_original": false,
     "based_on": "https://mhcc.pressbooks.pub/monteverde/"
   },
-  {
-    "title": "Action Research",
-    "url": "https://kstatelibraries.pressbooks.pub/gradactionresearch/",
-    "subject": "IT",
-    "word_count": 544,
-    "is_original": true
-  },
-  {
-    "title": "An Interactive Introduction to Organismal and Molecular Biology",
-    "url": "https://openbooks.lib.msu.edu/isb202/",
-    "subject": "Biology, life sciences",
-    "word_count": 39949,
-    "is_original": true
-  },
-  {
+    {
     "title": "An Introduction to Medical Documentation for the Physical Therapist Assistant",
     "url": "https://psu.pb.unizin.org/ptamedicaldocumentation/",
     "subject": "Health",
@@ -135,13 +330,6 @@
     "url": "https://mhcc.pressbooks.pub/monteverde/",
     "subject": "Design & IT",
     "word_count": 3775,
-    "is_original": true
-  },
-  {
-    "title": "An Open Approach to Scholarly Reading and Knowledge Management",
-    "url": "https://press.rebus.community/scholarlyreading/",
-    "subject": "Publishing & book trade, Information retrieval & access, Open source & other operating systems",
-    "word_count": 2324335,
     "is_original": true
   },
   {
@@ -159,12 +347,5 @@
     "word_count": 23242,
     "is_original": false,
     "based_on": "https://press.rebus.community/scholarlyreading/"
-  },
-  {
-    "title": "Art History: Renaissance to Modernism",
-    "url": "https://nicoletcollege.pressbooks.pub/2081522700arthist/",
-    "subject": "Art",
-    "word_count": 44534,
-    "is_original": true
   }
 ]
