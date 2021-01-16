@@ -26,18 +26,17 @@
     "is_original": true
   },
   {
-    "title": "2019-20 MMC Family Medicine Clerkship",
-    "url": "https://tuftsmedicine.pressbooks.pub/fmclerkshipmmc/",
+    "title": "21st Century Queer Fashion Brands",
+    "url": "https://iastate.pressbooks.pub/queerfashionbrands/",
     "subject": [
       {
-        "Identifier": "003",
-        "Name": "Health"
+        "Identifier": "001",
+        "Name": "Fashion & textiles"
       }
     ],
     "Language": "EN",
-    "word_count": 322123,
-    "is_original": false,
-    "based_on": "https://tuftsmedicine.pressbooks.pub/familymedicineclerkship/"
+    "word_count": 210353,
+    "is_original": true
   },
   {
     "title": "2019-2020 Family Medicine Clerkship",
@@ -64,7 +63,7 @@
     "Language": "EN",
     "word_count": 39949,
     "is_original": false,
-    "based_on": "https://ecampusontario.pressbooks.pub/onlineteaching/"
+    "based_on": "https://open.lib.umn.edu/writingforsuccess"
   },
   {
     "title": "A Guide to Making Open Textbooks with Students",
@@ -106,7 +105,7 @@
     "is_original": true
   },
   {
-    "title": "Antología abierta de literatura hispana",
+    "title": "Antología abierta de literatura hispana: edición canadiense",
     "url": "https://ecampusontario.pressbooks.pub/aalh/",
     "subject": [
       {
@@ -205,7 +204,7 @@
     "subject": [
       {
         "Identifier": "006",
-        "Name": "Comparative Literature"
+        "Name": "Comparative literature"
       }
     ],
     "Language": "AR",
@@ -218,7 +217,7 @@
     "subject": [
       {
         "Identifier": "006",
-        "Name": "Comparative Literature"
+        "Name": "Comparative literature"
       }
     ],
     "Language": "ZH",
@@ -231,8 +230,8 @@
     "url": "https://ctext.org/sanguozhi",
     "subject": [
       {
-        "Identifier": "008",
-        "Name": "History"
+        "Identifier": "006",
+        "Name": "Comparative literature"
       }
     ],
     "Language": "ZH",
@@ -245,7 +244,7 @@
     "subject": [
       {
         "Identifier": "006",
-        "Name": "Comparative Literature"
+        "Name": "Comparative literature"
       }
     ],
     "Language": "ZH",
@@ -258,7 +257,7 @@
     "subject": [
       {
         "Identifier": "006",
-        "Name": "Comparative Literature"
+        "Name": "Comparative literature"
       }
     ],
     "Language": "EN",
@@ -279,73 +278,86 @@
     "word_count": 2324335,
     "is_original": true
   },
-    {
-    "title": "Academic Quality: CDS Crib Notes",
+  {
+    "title": "التدريس عبر الإنترنت",
     "url": "https://ecampusontario.pressbooks.pub/aqpr/",
-    "subject": "Education",
+    "subject": [
+      {
+        "Identifier": "002",
+        "Name": "Education"
+      }
+    ],
+    "Language": "AR",
     "word_count": 39949,
     "is_original": false,
     "based_on": "https://ecampusontario.pressbooks.pub/onlineteaching/"
   },
   {
     "title": "1, 2, 3 Write!",
-    "url": "https://mhcc.pressbooks.pub/monteverde/",
-    "subject": "Language learning: writing skills",
+    "url": "https://oer.pressbooks.pub/writing/",
+    "subject": [
+      {
+        "Identifier": "004",
+        "Name": "Language learning"
+      }
+    ],
+    "Language": "EN",
     "word_count": 39949,
-    "is_original": false,
-    "based_on": "https://ecampusontario.pressbooks.pub/onlineteaching/"
-  },
-  {
-    "title": "ACC100 - Introduction to Financial Accounting",
-    "url": "https://open.baypath.edu/acc100-introductiontofinancialaccounting/",
-    "subject": "Finance",
-    "word_count": 3036,
-    "is_original": true
-  },
-  {
-    "title": "Access to information resources",
-    "url": "https://mhcc.pressbooks.pub/monteverde/",
-    "subject": "Language learning: writing skills",
-    "word_count": 33444,
-    "is_original": true
-  },
-  {
-    "title": "Accessibility Toolkit",
-    "url": "https://mhcc.pressbooks.pub/monteverde/",
-    "subject": "Writing & editing guides, Writing & editing guides, REF000000 REFERENCE / General",
-    "word_count": 3433,
     "is_original": false,
     "based_on": "https://mhcc.pressbooks.pub/monteverde/"
   },
-    {
+  {
+    "title": "Una guía para escribir",
+    "url": "https://oer.pressbooks.pub/escribir/",
+    "subject": [
+      {
+        "Identifier": "004",
+        "Name": "Language learning"
+      }
+    ],
+    "Language": "ES",
+    "word_count": 15949,
+    "is_original": false,
+    "based_on": "https://open.lib.umn.edu/writingforsuccess"
+  },
+  {
     "title": "An Introduction to Medical Documentation for the Physical Therapist Assistant",
     "url": "https://psu.pb.unizin.org/ptamedicaldocumentation/",
-    "subject": "Health",
+    "subject": [
+      {
+        "Identifier": "003",
+        "Name": "Health"
+      }
+    ],
+    "Language": "EN",
     "word_count": 443324,
     "is_original": false,
     "based_on": "https://openbooks.lib.msu.edu/isb202/"
   },
   {
-    "title": "An Introduction to Online Course Design",
-    "url": "https://mhcc.pressbooks.pub/monteverde/",
-    "subject": "Design & IT",
-    "word_count": 3775,
+    "title": "Collegiate Fashion and Activism: Black Women’s Styles on the College Campus",
+    "url": "https://iastate.pressbooks.pub/collegiatefashionactivism/",
+    "subject": [
+      {
+        "Identifier": "001",
+        "Name": "Fashion & textiles"
+      }
+    ],
+    "Language": "EN",
+    "word_count": 6366,
     "is_original": true
   },
   {
-    "title": "An Open Guide to IMC Part 2",
-    "url": "https://kpu.pressbooks.pub/openimc2/",
-    "subject": "Education",
-    "word_count": 3433,
-    "is_original": false,
-    "based_on": "https://ecampusontario.pressbooks.pub/onlineteaching/"
-  },
-  {
-    "title": "Analytical Methods in Geosciences",
-    "url": "https://viva.pressbooks.pub/analyticalmethodsingeosciences/",
-    "subject": "Geology, geomorphology & the lithosphere, Analytical chemistry",
-    "word_count": 23242,
-    "is_original": false,
-    "based_on": "https://press.rebus.community/scholarlyreading/"
+    "title": "Writing for Success",
+    "url": "https://open.lib.umn.edu/writingforsuccess/",
+    "subject": [
+      {
+        "Identifier": "002",
+        "Name": "Education"
+      }
+    ],
+    "Language": "EN",
+    "word_count": 164035,
+    "is_original": true
   }
 ]
