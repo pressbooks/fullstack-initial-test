@@ -135,11 +135,11 @@
     "title": "La Trousse d’outils d’accessibilité",
     "url": "https://ecampusontario.pressbooks.pub/troussedoutildeaccessibilite/",
     "subject": [
-        {
-          "Identifier": "005",
-          "Name": "Publishing & book trade"
-        }
-      ],
+      {
+        "Identifier": "005",
+        "Name": "Publishing & book trade"
+      }
+    ],
     "Language": "FR",
     "word_count": 7675,
     "is_original": false,
