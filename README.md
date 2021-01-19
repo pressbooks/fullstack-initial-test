@@ -1,6 +1,6 @@
 # Pre-screening Pressbooks challenge
 
-To complete this challenge, create an API with 1 main endpoint: a book list in JSON format. Use the `books.json` file in this repo for the challenge. Create a GitHub or GitLab repository with your implementation and email a link to the project repo to jobs@pressbooks.com.
+To complete this challenge, create an API with 1 main endpoint: a book list in JSON format. Use the `books.json` file in this repo for the challenge. Create a private GitHub repository with your implementation and add the following GitHub users to your project repo: [SteelWagstaff](https://github.com/SteelWagstaff), [arzola](https://github.com/orgs/arzola) and [richard015ar](https://github.com/richard015ar). When this has been done, email the link to your repo to jobs@pressbooks.com.
 
 ## Implementation requirements:
 - Must be written in PHP (using any framework and/or libraries you prefer)
